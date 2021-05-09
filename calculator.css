@@ -82,6 +82,7 @@ body {
     text-align: right;
     background-color: #eaac8b;
     float: left;
+      color: #ede5df;
   }
   
   #display:hover {
@@ -90,6 +91,7 @@ body {
     text-align: right;
     background-color: #eaac8b;
     box-shadow: 0 4px rgba(0,0,0,0.2);
+      color: #ede5df;
   }
   
   #display:active {
@@ -99,6 +101,7 @@ body {
     text-align: right;
     background-color: #eaac8b;
     box-shadow: 0 4px rgba(0,0,0,0.2);
+      color: #ede5df;
   }
   
   .operator {
